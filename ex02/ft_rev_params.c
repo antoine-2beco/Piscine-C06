@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_rev_params.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ade-beco <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ade-beco <ade-beco@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/15 09:26:39 by ade-beco          #+#    #+#             */
 /*   Updated: 2023/09/15 09:26:41 by ade-beco         ###   ########.fr       */
